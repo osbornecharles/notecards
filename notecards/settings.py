@@ -78,8 +78,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'languagenotecards',
-        'USER': 'cosborne0731',
-        'PASSWORD': 'f10f268fc277b848fa01bc80996dedaf',
+        'USER': 'kaixin',
+        'PASSWORD': '3sidednotecards',
         'HOST': '127.0.0.1',
         'PORT': ''
     }
